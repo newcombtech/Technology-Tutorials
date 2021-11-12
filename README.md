@@ -1,4 +1,4 @@
-# Technology-Tutorials
+# Technology Tutorials
 DRI and IT Team, start here! Tutorials for all the different technologies are here. Some of the tutorials are PDFs, some are videos, and some may be word docs, but they all have been created by the digital research team.
 
 ## Web Development
@@ -6,7 +6,7 @@ DRI and IT Team, start here! Tutorials for all the different technologies are he
 ### WordPress
 These tutorials span from plugin development, image formatting, and general how-to's on WordPress development.
 
-#### Video Tutorials
+#### General WordPress Tutorials
 
 - [Overall, non-Tulane WordPress](https://app.box.com/file/880707215830)
 - [Creating Jump Links](https://app.box.com/file/793819659891)
@@ -18,21 +18,24 @@ These tutorials span from plugin development, image formatting, and general how-
 - [Making Pages](https://app.box.com/file/795820392370)
 - [Making Pages pt. 2](https://app.box.com/file/795822197550)
 - [Creating Border Formatted Image Blocks](https://app.box.com/file/880754012758)
-- []()
-
-#### Text Tutorials
-
 - [Categorizing and Custom Post types](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Categorizing%20and%20Custom%20Post%20types.pdf)
 - [Creating Clickable Images](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Creating%20Clickable%20Images.pdf)
 - [Embedding Google Maps](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Embeding%20Google%20Maps.pdf)
-- [Local Host - XAMPP with Preexisting WordPress Files](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Local%20Host%20-%20XAMPP%20Tutorial%20with%20Preexisting%20Wordpress%20Files.pdf)
-- [Richteam Event Timeline Plugin Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Richteam%20Event%20Timeline%20Plugin%20Tutorial.docx)
-- [Timeline Creation using WordPress Timeline](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Timeline%20Creation%20using%20Wordpress%20Timeline%20for%20MCH.docx)
-- [Video and Reel Plugins](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Video%20and%20Reel%20Plugins.pdf)
-- [Local Host and WordPress - WP All In One Plugin]()
-- [All Import Plugin - CSV to WordPress Upload Instruction]()
-- [Writing a Plugin Research and Notes]()
-- [Divi WordPress Theme Tips]()
+
+#### Local Host
+
+- [Local Host - XAMPP with Preexisting WordPress Files](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Local%20Host/Local%20Host%20-%20XAMPP%20Tutorial%20with%20Preexisting%20Wordpress%20Files.pdf)
+- [Local Host and WordPress - WP All In One Migration Plugin](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Local%20Host/Local%20Host%20and%20Wordpress%20-%20WP%20All%20In%20One%20Plugin.pdf)
+
+#### Plugins
+
+- [Richteam Event Timeline Plugin Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Plugins/Richteam%20Event%20Timeline%20Plugin%20Tutorial.docx)
+- [Timeline Creation using WordPress Timeline](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Plugins/Timeline%20Creation%20using%20Wordpress%20Timeline%20for%20MCH.docx)
+- [All Import Plugin - CSV to WordPress Upload Instructions](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Plugins/All%20Import%20Plugin%20-%20CSV%20to%20Wordpress%20Upload%20Instructions.pdf)
+
+#### Divi
+
+- [Divi WordPress Theme Tips](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Divi/Divi%20Wordpress%20Theme%20Tips_gdoc.docx)
 
 ### ucraft
 
@@ -53,21 +56,22 @@ Here is information and training relevant to Airtable in the context of storing 
 ### Access
 Access is a tool for creating and managing a Microsoft Access database and corresponding forms. It provides helpful instruction, including video and text-based materials, for the Transitional Justice database as well as general instruction for working with Access that can be applied to other projects.
 
--[Access Form Tutorial with CSV and Excel Data Input](https://github.com/newcombtech/Technology-Tutorials/blob/main/Access/Access%20Form%20Tutorial%20with%20CSV%20and%20Excel%20Data%20Input.pdf)
+- [Access Form Tutorial with CSV and Excel Data Input](https://github.com/newcombtech/Technology-Tutorials/blob/main/Access/Access%20Form%20Tutorial%20with%20CSV%20and%20Excel%20Data%20Input.pdf)
 
 ### Tableau
 This folder has different video and text tutorials for Tableau, mainly created for the Maternal and Child Health Coalition Mapping project.
-- [Tableau Bar Graph Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/Visualization%20Tools/MCH%20Tableau%20Bar%20Graph%20Tutorial.mp4)
-- [Tableau Map Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/Visualization%20Tools/MCH%20Tableau%20Bar%20Graph%20Tutorial.mp4)
-- [Tableau Pie Graph Tutorial]()
-- [Tableau Area and Line Graph Tutorial]()
-- [Tableau Graphical Data Representation for MCH]()
+- [Tableau Bar Graph Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/Tableau/MCH%20Tableau%20Bar%20Graph%20Tutorial.mp4)
+- [Tableau Map Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/Tableau/MCH%20Tableau%20Map%20Tutorial.docx)
+- [Tableau Pie Graph Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/Tableau/MCH%20Tableau%20Pie%20Graph%20Tutorial.mp4)
+- [Tableau Area and Line Graph Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/Tableau/MCH%20Tableau%20area%20and%20line%20graph%20tutorial.mp4)
+- [Tableau Graphical Data Representation](https://github.com/newcombtech/Technology-Tutorials/blob/main/Tableau/Tableau%20Graphical%20Data%20Representation%20for%20MCH.docx)
 - [MCH Data Cleaning and Tableau](https://app.box.com/file/881158107556)
 
 ### ArcGIS
+Coming Soon!
 
 ### Flourish
-- [Flourish Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/Visualization%20Tools/Flourish%20Tutorial.docx)
+- [Flourish Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/Flourish/Flourish%20Tutorial.docx)
 
 ## General Tech Skills
 
