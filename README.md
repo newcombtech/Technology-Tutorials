@@ -1,6 +1,26 @@
 # Technology Tutorials
 DRI and IT Team, start here! Tutorials for all the different technologies are here. Some of the tutorials are PDFs, some are videos, and some may be word docs, but they all have been created by the digital research team.
 
+## Table of Contents
+**Web Development**
+*Wordpress*
+- General WordPress Tutorials
+- Local Hosting
+- Plugins
+- Divi
+*ucraft*
+
+**Data Analysis and Visualizations**
+*Airtable*
+*Access*
+*Tableau*
+*ArcGIS*
+*Flourish*
+
+**General Tech Skills**
+*Podcasting*
+*Qualitrics Survey*
+
 ## Web Development
 
 ### WordPress
