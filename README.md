@@ -3,23 +3,23 @@ DRI and IT Team, start here! Tutorials for all the different technologies are he
 
 ## Table of Contents
 [**Web Development**](https://github.com/newcombtech/Technology-Tutorials#web-development)
-- [*Wordpress*](https://github.com/newcombtech/Technology-Tutorials#wordpress)
+- [Wordpress](https://github.com/newcombtech/Technology-Tutorials#wordpress)
 	- [General WordPress Tutorials](https://github.com/newcombtech/Technology-Tutorials#general-wordpress-tutorials)
 	- [Local Hosting](https://github.com/newcombtech/Technology-Tutorials#local-host)
 	- [Plugins](https://github.com/newcombtech/Technology-Tutorials#plugins)
 	- [Divi](https://github.com/newcombtech/Technology-Tutorials#divi)
-- [*ucraft*](https://github.com/newcombtech/Technology-Tutorials#ucraft)
+- [ucraft](https://github.com/newcombtech/Technology-Tutorials#ucraft)
 
 [**Data Analysis and Visualizations**](https://github.com/newcombtech/Technology-Tutorials#data-analysis-and-visualization)
-- [*Airtable*](https://github.com/newcombtech/Technology-Tutorials#airtable)
-- [*Access*](https://github.com/newcombtech/Technology-Tutorials#access)
-- [*Tableau*](https://github.com/newcombtech/Technology-Tutorials#tableau)
-- [*ArcGIS*](https://github.com/newcombtech/Technology-Tutorials#arcgis)
-- [*Flourish*](https://github.com/newcombtech/Technology-Tutorials#arcgis)
+- [Airtable](https://github.com/newcombtech/Technology-Tutorials#airtable)
+- [Access](https://github.com/newcombtech/Technology-Tutorials#access)
+- [Tableau](https://github.com/newcombtech/Technology-Tutorials#tableau)
+- [ArcGIS](https://github.com/newcombtech/Technology-Tutorials#arcgis)
+- [Flourish](https://github.com/newcombtech/Technology-Tutorials#arcgis)
 
 [**General Tech Skills**](https://github.com/newcombtech/Technology-Tutorials#general-tech-skills)
-- [*Podcasting*](https://github.com/newcombtech/Technology-Tutorials#podcasting)
-- [*Qualitrics Survey*](https://github.com/newcombtech/Technology-Tutorials#qualitrics-survey)
+- [Podcasting](https://github.com/newcombtech/Technology-Tutorials#podcasting)
+- [Qualitrics Survey](https://github.com/newcombtech/Technology-Tutorials#qualitrics-survey)
 
 ## Web Development
 
@@ -29,18 +29,10 @@ These tutorials span from plugin development, image formatting, and general how-
 #### General WordPress Tutorials
 
 - [Overall, non-Tulane WordPress](https://app.box.com/file/880707215830)
-- [Creating Jump Links](https://app.box.com/file/793819659891)
-- [Jump links across different pages](https://app.box.com/file/804990418842)
-- [Formatting a Footer](https://app.box.com/file/795822172987)
-- [Formmating for Mobile](https://app.box.com/file/795822903834)
-- [Global Formatting and Menus](https://app.box.com/file/795821815371)
-- [Intro and Creating Articles](https://app.box.com/file/795824483429)
-- [Making Pages](https://app.box.com/file/795820392370)
-- [Making Pages pt. 2](https://app.box.com/file/795822197550)
 - [Creating Border Formatted Image Blocks](https://app.box.com/file/880754012758)
 - [Categorizing and Custom Post types](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Categorizing%20and%20Custom%20Post%20types.pdf)
 - [Creating Clickable Images](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Creating%20Clickable%20Images.pdf)
-- [Embedding Google Maps](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Embeding%20Google%20Maps.pdf)
+- [Embedding Google Maps](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Embedding%20Google%20Maps.pdf)
 
 #### Local Host
 
@@ -50,12 +42,20 @@ These tutorials span from plugin development, image formatting, and general how-
 #### Plugins
 
 - [Richteam Event Timeline Plugin Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Plugins/Richteam%20Event%20Timeline%20Plugin%20Tutorial.docx)
-- [Timeline Creation using WordPress Timeline](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Plugins/Timeline%20Creation%20using%20Wordpress%20Timeline%20for%20MCH.docx)
+- [Timeline Creation using WordPress Timeline (used for MCH)](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Plugins/Timeline%20Creation%20using%20Wordpress%20Timeline%20for%20MCH.docx)
 - [All Import Plugin - CSV to WordPress Upload Instructions](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Plugins/All%20Import%20Plugin%20-%20CSV%20to%20Wordpress%20Upload%20Instructions.pdf)
 
 #### Divi
 
 - [Divi WordPress Theme Tips](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Divi/Divi%20Wordpress%20Theme%20Tips_gdoc.docx)
+- [Creating Jump Links](https://app.box.com/file/793819659891)
+- [Jump links across different pages](https://app.box.com/file/804990418842)
+- [Formatting a Footer](https://app.box.com/file/795822172987)
+- [Formmating for Mobile](https://app.box.com/file/795822903834)
+- [Global Formatting and Menus](https://app.box.com/file/795821815371)
+- [Intro and Creating Articles](https://app.box.com/file/795824483429)
+- [Making Pages](https://app.box.com/file/795820392370)
+- [Making Pages pt. 2](https://app.box.com/file/795822197550)
 
 ### ucraft
 
