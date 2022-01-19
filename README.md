@@ -4,10 +4,10 @@ DRI and IT Team, start here! Tutorials for all the different technologies are he
 ## Table of Contents
 **Web Development**
 1. *Wordpress*
-- General WordPress Tutorials
-- Local Hosting
-- Plugins
-- Divi
+	- General WordPress Tutorials
+	- Local Hosting
+	- Plugins
+	- Divi
 2. *ucraft*
 
 **Data Analysis and Visualizations**
