@@ -2,24 +2,24 @@
 DRI and IT Team, start here! Tutorials for all the different technologies are here. Some of the tutorials are PDFs, some are videos, and some may be word docs, but they all have been created by the digital research team.
 
 ## Table of Contents
-**Web Development**
-1. *Wordpress*
-	- General WordPress Tutorials
-	- Local Hosting
-	- Plugins
-	- Divi
-2. *ucraft*
+[**Web Development**](https://github.com/newcombtech/Technology-Tutorials#web-development)
+- [*Wordpress*](https://github.com/newcombtech/Technology-Tutorials#wordpress)
+	- [General WordPress Tutorials](https://github.com/newcombtech/Technology-Tutorials#general-wordpress-tutorials)
+	- [Local Hosting](https://github.com/newcombtech/Technology-Tutorials#local-host)
+	- [Plugins](https://github.com/newcombtech/Technology-Tutorials#plugins)
+	- [Divi](https://github.com/newcombtech/Technology-Tutorials#divi)
+- [*ucraft*](https://github.com/newcombtech/Technology-Tutorials#ucraft)
 
-**Data Analysis and Visualizations**
-1. *Airtable*
-2. *Access*
-3. *Tableau*
-4. *ArcGIS*
-5. *Flourish*
+[**Data Analysis and Visualizations**](https://github.com/newcombtech/Technology-Tutorials#data-analysis-and-visualization)
+- [*Airtable*](https://github.com/newcombtech/Technology-Tutorials#airtable)
+- [*Access*](https://github.com/newcombtech/Technology-Tutorials#access)
+- [*Tableau*](https://github.com/newcombtech/Technology-Tutorials#tableau)
+- [*ArcGIS*](https://github.com/newcombtech/Technology-Tutorials#arcgis)
+- [*Flourish*](https://github.com/newcombtech/Technology-Tutorials#arcgis)
 
-**General Tech Skills**
-1. *Podcasting*
-2. *Qualitrics Survey*
+[**General Tech Skills**](https://github.com/newcombtech/Technology-Tutorials#general-tech-skills)
+- [*Podcasting*](https://github.com/newcombtech/Technology-Tutorials#podcasting)
+- [*Qualitrics Survey*](https://github.com/newcombtech/Technology-Tutorials#qualitrics-survey)
 
 ## Web Development
 
