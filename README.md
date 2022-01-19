@@ -3,33 +3,23 @@ DRI and IT Team, start here! Tutorials for all the different technologies are he
 
 ## Table of Contents
 **Web Development**
-
-*Wordpress*
-
+1. *Wordpress*
 - General WordPress Tutorials
 - Local Hosting
 - Plugins
 - Divi
-
-*ucraft*
+2. *ucraft*
 
 **Data Analysis and Visualizations**
-
-*Airtable*
-
-*Access*
-
-*Tableau*
-
-*ArcGIS*
-
-*Flourish*
+1. *Airtable*
+2. *Access*
+3. *Tableau*
+4. *ArcGIS*
+5. *Flourish*
 
 **General Tech Skills**
-
-*Podcasting*
-
-*Qualitrics Survey*
+1. *Podcasting*
+2. *Qualitrics Survey*
 
 ## Web Development
 
