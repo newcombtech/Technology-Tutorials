@@ -19,7 +19,7 @@ DRI and IT Team, start here! Tutorials for all the different technologies are he
 
 [**General Tech Skills**](https://github.com/newcombtech/Technology-Tutorials#general-tech-skills)
 - [Podcasting](https://github.com/newcombtech/Technology-Tutorials#podcasting)
-- [Qualitrics Survey](https://github.com/newcombtech/Technology-Tutorials#qualitrics-survey)
+- [Qualtrics Survey](https://github.com/newcombtech/Technology-Tutorials#qualtrics-survey)
 
 ## Web Development
 
@@ -99,8 +99,8 @@ Coming Soon!
 Here you can find a guide to Podcasting Resources for starting a podcase, Minimal Computing and app-based podcasting, editing, and further reading.
 - [Podcasting Guide](https://github.com/newcombtech/Technology-Tutorials/blob/main/Podcasting/podcasting_guide.md)
 
-### Qualitrics Survey
+### Qualtrics Survey
 Here you can find information about using the survey platform Qualtrics, providing an overview of the software, a sample workflow, and planning information about the Animate Energies conference submission process.
-- [Anonymizing and Categorizing Qualitrics Submissions](https://github.com/newcombtech/Technology-Tutorials/blob/main/Qualitrics%20Survey/Anonymizing%20and%20Categorizing%20Qualtrics%20Submissions.pdf)
+- [Anonymizing and Categorizing Qualtrics Submissions](https://github.com/newcombtech/Technology-Tutorials/blob/main/Qualtrics%20Survey/Anonymizing%20and%20Categorizing%20Qualtrics%20Submissions.pdf)
 
 ## Looking for research? [Go here!](https://github.com/newcombtech/Technology-Research)
