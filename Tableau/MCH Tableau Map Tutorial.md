@@ -1,42 +1,36 @@
-Tableau Map Creation for MCH
+# Tableau Map Creation for MCH
 
 Compiled by DRI Marisa Long
 
 1.  Download these four files/folders from box and place somewhere
-    convenient.
+    convenient.<br>
+    They can be found here: <https://app.box.com/folder/133174409935>
 
-They can be found here: <https://app.box.com/folder/133174409935>
+<img width="437" alt="Picture1" src="https://user-images.githubusercontent.com/89610126/159801239-bc7fe4dd-5b6d-41ea-8c0d-44d1f184a29b.png">
 
-![Graphical user interface, text Description automatically
-generated](media/image1.png){width="6.069444444444445in"
-height="1.375in"}
 
 2.  Open Tableau Public on your desktop. You may need to login using the
-    Tulane credentials, which are:
+    Tulane credentials, which are:<br>
+    Username: ncitech@wave.tulane.edu<br>
 
-Username: ncitech@wave.tulane.edu
+    Password: Newcomb12!<br>
 
-Password: Newcomb12!
+    Or if you are working on a personal project, create your own login with Tableau Public. <br>
 
-Or if you are working on a personal project, create your own login with
-Tableau Public.
-
-To start a new viz, you'll need to open either one of the geospatial
+    To start a new viz, you'll need to open either one of the geospatial
 files or the excel sheets. Click on the appropriate one and then select
 one of these files that you just downloaded. Click open.
 
-![Graphical user interface, application Description automatically
-generated](media/image2.png){width="1.593176946631671in"
-height="3.354055118110236in"}
+<img width="114" alt="Picture1" src="https://user-images.githubusercontent.com/89610126/159801342-5c3162ef-3298-4a26-992e-fe425d73d04e.png">
+
 
 3.  Tableau will take you to the data source page. Add all the other
     data sources you just downloaded by clicking on the "Add" button by
     "Connections." Once all four are added, click the "New Sheet"
     button.
+    
+<img width="439" alt="Picture1" src="https://user-images.githubusercontent.com/89610126/159801369-2e3f2844-a39d-4996-9eb5-3ae4041ddbb8.png">
 
-![Graphical user interface, application Description automatically
-generated](media/image5.png){width="6.116750874890639in"
-height="3.4942596237970256in"}
 
 4.  Go to your sheet. Select "Shapefile -- House" in the upper left hand
     corner and a list of tables should appear. Under the second heading
@@ -44,16 +38,13 @@ height="3.4942596237970256in"}
     "Longitude (generated)." Draw the longitude into the columns bar and
     the latitude into the rows bar.
 
-![Graphical user interface Description automatically
-generated](media/image6.png){width="6.5in"
-height="3.6708333333333334in"}
+<img width="468" alt="Picture1" src="https://user-images.githubusercontent.com/89610126/159801398-ef23e2ff-d933-4447-9515-63091e2bcdf7.png">
 
 5.  Then, "Name" and "Geometry" under "Marks." You should now be able to
     scroll over the map and see the different districts.
 
-![Graphical user interface Description automatically
-generated](media/image7.png){width="6.5in"
-height="3.6034722222222224in"}
+<img width="468" alt="Picture1" src="https://user-images.githubusercontent.com/89610126/159801418-d45009cc-43c2-41d5-932a-b7197bbfe746.png">
+
 
 6.  Next, go back to the tab at the bottom left labeled "data source."
     To be able to correctly query the data, we're going to need to join
@@ -65,29 +56,24 @@ height="3.6034722222222224in"}
     dropdown and for "Act 1 House 2011" select "District I" from the
     drop down. Choose a full-outer join.
 
-![Graphical user interface, application Description automatically
-generated](media/image8.png){width="4.591911636045494in"
-height="2.9871948818897636in"}
+<img width="329" alt="Picture1" src="https://user-images.githubusercontent.com/89610126/159801479-7253a8fa-ad7f-4c47-802e-b6e54438b870.png">
 
-![Graphical user interface, application Description automatically
-generated](media/image9.png){width="4.846515748031496in"
-height="2.9902373140857392in"}
+<img width="346" alt="Pictur21" src="https://user-images.githubusercontent.com/89610126/159801483-9c1b99f2-6701-48fa-8b70-5baa93ccf162.png">
+
 
 7.  Next, go back to the sheet you created with the map. Under the HOUSE
     DISTRICTS label on the left-hand side, begin dragging the data over
     to "Marks" as a detail. Here you can see that I've done it for
     Nbirths.
 
-![Graphical user interface, text, application Description automatically
-generated](media/image10.png){width="5.516188757655293in"
-height="3.5195166229221346in"}
+<img width="397" alt="3" src="https://user-images.githubusercontent.com/89610126/159801504-cd3c50d7-0436-49e5-899f-ae979f58e875.png">
+
 
 Here is all of them dragged over. When you scroll over the map, the data
 for the selected district should appear.
 
-![Graphical user interface, application, map Description automatically
-generated](media/image11.png){width="5.336212817147857in"
-height="3.3471062992125984in"}
+<img width="384" alt="1" src="https://user-images.githubusercontent.com/89610126/159801554-28a36cfa-b7b0-4129-bf01-b8fef1d3719d.png">
+
 
 8.  Repeat steps 4-7 using the "United States Louisiana Administrative
     Boundaries Polygon" file for the latitude, longitude, geometry, and
@@ -99,49 +85,36 @@ height="3.3471062992125984in"}
     dashboard by clicking the grid-looking icon in the lower-right hand
     corner.
 
-![Graphical user interface, application, Word Description automatically
-generated](media/image12.png){width="5.646765091863517in"
-height="3.552755905511811in"}
+<img width="407" alt="2" src="https://user-images.githubusercontent.com/89610126/159801575-bc341ea5-8529-4b49-9d9d-746bd686f43d.png">
 
 10. Drag "Horizontal" from under objects onto the blank dashboard where
     it says "drop sheets here." Then drag each of you sheets with your
     maps onto each side of the horizontal divide so that they lay
     side-by-side.
 
-![Graphical user interface, application Description automatically
-generated](media/image13.png){width="1.8504483814523185in"
-height="1.7904800962379703in"}
+<img width="133" alt="3" src="https://user-images.githubusercontent.com/89610126/159801640-0dc686b1-cff9-4940-922a-fb7f797ef219.png">
+<img width="428" alt="4" src="https://user-images.githubusercontent.com/89610126/159801648-0e3ef94e-26c7-46f9-a3bf-ba7cd32628fa.png">
 
-![Graphical user interface, map Description automatically
-generated](media/image14.png){width="5.943127734033246in"
-height="4.372896981627297in"}
 
 11. Create a checkbox query by going back to the original sheets. I'm
     going to be demonstrating on the district map. From the left side
     bar, drag "race" and "year" into the filter box. For race, click all
     the checkboxes and for year leave as the default setting. Hit ok.
 
-![Graphical user interface, map Description automatically
-generated](media/image15.png){width="6.5in" height="4.09375in"}
+<img width="468" alt="1" src="https://user-images.githubusercontent.com/89610126/159801710-69cf6108-fac5-4876-b0bd-073b213038ee.png">
+<img width="190" alt="2" src="https://user-images.githubusercontent.com/89610126/159801721-30ec38e5-f43a-4f9a-8e3e-e5b68f590965.png">
+<img width="235" alt="3" src="https://user-images.githubusercontent.com/89610126/159801728-3f357f79-11a6-4e42-bc54-1170cde36a0c.png">
 
-![Graphical user interface, text, application Description automatically
-generated](media/image16.png){width="2.641541994750656in"
-height="1.8989884076990375in"} ![Graphical user interface, text,
-application Description automatically
-generated](media/image17.png){width="3.2787784339457566in"
-height="2.4254549431321086in"}
 
 12. Right click on race and select "show filter." Do the same for year.
     Also right click each, go to "apply to worksheets" and select "all
     using this data source."
+<img width="468" alt="1" src="https://user-images.githubusercontent.com/89610126/159801799-a8c410e9-4144-440e-ac14-ab071d451f78.png">
 
-![Map Description automatically
-generated](media/image18.png){width="6.5in" height="3.89375in"}
 
 13. Repeat steps 11-12 for the parishes.
 
 14. All done!
 
-![Map Description automatically
-generated](media/image19.png){width="5.1370417760279965in"
-height="4.3807556867891515in"}
+<img width="370" alt="2" src="https://user-images.githubusercontent.com/89610126/159801809-cc9cd866-faf5-487d-9438-ac7f01e1e9fa.png">
+
