@@ -1,4 +1,4 @@
-**Flourish Tutorial**
+# Flourish Tutorial
 
 1.  **Getting Data**
 
@@ -36,7 +36,7 @@
 
     -   Header- change title, subtitle, additional description text
 
-    -   Footer- edit footer information
+    -   Footer- edit footer information <br><br>
 
 **Possible area of growth: Adding images**
 
@@ -46,5 +46,5 @@ flourish, right click on box in Flourish and upload file, select image
 Downside: with new data points, images all must be reuploaded through
 Flourish (image links can't be saved in Excel file)
 
-![](/media/image2.png){width="2.8958333333333335in"
-height="2.4895833333333335in"}
+<img width="209" alt="Picture1" src="https://user-images.githubusercontent.com/89610126/159799146-c1a2aae7-72a5-4530-80d7-e2576d1d4226.png">
+
