@@ -1,51 +1,38 @@
-Timeline Creation using WordPress Timeline for MCH
+# Timeline Creation using WordPress Timeline for MCH #
 
 Compiled by DRI Marisa Long
 
 1.  On a blank WordPress Page, click the black + button to add a new
     block. Select "timeline."
 
-> ![A picture containing graphical user interface Description
-> automatically generated](media/image1.png){width="4.914888451443569in"
-> height="1.8819400699912512in"}
+<img width="353" alt="image" src="https://user-images.githubusercontent.com/89610126/161862941-ee8e775f-f8d1-43e8-9488-b085716314c5.png">
 
 2.  You'll then have one block of your timeline.
 
-> Within the new block for your timeline, another black + box will
-> appear. Click "heading."
+ Within the new block for your timeline, another black + box will
+ appear. Click "heading."
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/89610126/161862965-fca54d0c-9f0c-4d70-850f-88d08593bd35.png">
 >
-> ![Graphical user interface Description automatically generated with
-> medium confidence](media/image2.png){width="6.5in"
-> height="1.4826388888888888in"}
+ You can change the style, font, or bold/italics of this heading using
+ the bar that appears when the heading is selected:
 >
-> You can change the style, font, or bold/italics of this heading using
-> the bar that appears when the heading is selected:
->
-> ![Table Description automatically
-> generated](media/image3.png){width="6.5in"
-> height="1.8291666666666666in"}
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/89610126/161862985-4fbd7354-9898-4f3b-8cfe-5ea51d03cc2b.png">
 
 3.  Add another entry to your timeline by clicking the black "add entry"
     box below.
 
-![Graphical user interface, application Description automatically
-generated](media/image4.png){width="4.265364173228346in"
-height="2.6681310148731407in"}
+<img width="307" alt="image" src="https://user-images.githubusercontent.com/89610126/161863031-8ba1c625-ccd3-47e3-a153-de63f7560ed2.png">
 
 4.  Once you've added a heading to your second entry, you can add a
     photo, photo gallery, slideshow, pdf, text, shortcode etc. by
     clicking on the the black + under the heading and then selecting
     what you would like to add. Click "browse all" for more options.
 
-![Graphical user interface, application Description automatically
-generated](media/image5.png){width="5.487703412073491in"
-height="2.6717377515310585in"}
+<img width="395" alt="image" src="https://user-images.githubusercontent.com/89610126/161863046-ee7c2c94-39ca-402b-a4e2-331136b3308e.png">
 
 I've added a few entries:
+<img width="340" alt="image" src="https://user-images.githubusercontent.com/89610126/161863058-c6d5b7e5-0719-4260-b4ff-9a586fcee3e8.png">
 
-![Graphical user interface, application Description automatically
-generated](media/image6.png){width="4.718141951006125in"
-height="2.8525601487314085in"}
 
 5.  Once you've added some entries, you can customize your timeline by
     changing the colors, the forms, and adding animations if you would
@@ -54,20 +41,15 @@ height="2.8525601487314085in"}
     a.  To change fonts/font colors, select the next and the option bar
         will appear:
 
-> ![Diagram Description automatically generated with medium
-> confidence](media/image7.png){width="4.0110925196850395in"
-> height="0.9007819335083115in"}
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/89610126/161863082-f9e3f487-138f-464a-9942-226e8b998e52.png">
 
 b.  To change the block colors, select the entire block and hit the
     3-dot icon. Click "show more settings." Here, you will have
     customizing options, including color.
 
-> ![Application Description automatically generated with medium
-> confidence](media/image8.png){width="2.4982655293088363in"
-> height="2.2876738845144358in"} ![Chart, bubble chart Description
-> automatically
-> generated](media/image9.png){width="1.5033027121609799in"
-> height="2.4772714348206475in"}
+<img width="179" alt="image" src="https://user-images.githubusercontent.com/89610126/161863112-39b5f68c-e468-49a3-b3e9-a49e7800dbdd.png">
+<img width="108" alt="image" src="https://user-images.githubusercontent.com/89610126/161863128-0af0adfc-45ec-409a-bda3-b73f8b8609ca.png">
+
 
 c.  To change the alignment (make it alternate like the one we created
     for MCH), click the "select timeline" button. Once the entire
@@ -75,35 +57,22 @@ c.  To change the alignment (make it alternate like the one we created
     "show more settings." There you can flip the toggle on alternate
     items.
 
-> ![Graphical user interface, application, table Description
-> automatically
-> generated](media/image10.png){width="1.9074748468941383in"
-> height="0.5954811898512686in"} ![A picture containing text, sport
-> Description automatically
-> generated](media/image11.png){width="1.7845275590551182in"
-> height="0.7117180664916886in"} ![Graphical user interface, text,
-> application Description automatically
-> generated](media/image12.png){width="1.236567147856518in"
-> height="1.6203280839895013in"}
+<img width="134" alt="image" src="https://user-images.githubusercontent.com/89610126/161863150-eb8c5893-7ebb-4356-8ccd-7677e8404592.png">
+<img width="127" alt="image" src="https://user-images.githubusercontent.com/89610126/161863166-d3097634-26fc-44ad-97da-7bd52b0fbcd0.png">
+<img width="89" alt="image" src="https://user-images.githubusercontent.com/89610126/161863183-75e88ac3-70cc-461f-a0a8-86aab63d8873.png">
+
+
 
 d.  To add an animation, select an image, text, or any other item on a
     block, use the bar that appears to click this symbol:
 
-> ![Graphical user interface, application Description automatically
-> generated with medium
-> confidence](media/image13.png){width="3.3221172353455817in"
-> height="0.7112740594925634in"}
+<img width="237" alt="image" src="https://user-images.githubusercontent.com/89610126/161863191-2e972cbf-a441-478b-a594-bab6ed558c05.png">
 
 6.  This is what our final product looks like:
-
-![Graphical user interface, application, Teams Description automatically
-generated](media/image14.png){width="3.124721128608924in"
-height="2.369247594050744in"}
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/89610126/161863216-c9656f8b-32ab-4e56-b6c7-6fbf052150cd.png">
 
 And another example:
 
-![A picture containing timeline Description automatically
-generated](media/image15.png){width="3.120272309711286in"
-height="2.924255249343832in"}
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/89610126/161863225-ec652559-ff3a-46ec-a84a-858a6fc875b7.png">
 
-Or follow this link to see: <https://nolamch.org/our-origins/>
+Or follow this link to see: https://nolamch.org/our-origins/
