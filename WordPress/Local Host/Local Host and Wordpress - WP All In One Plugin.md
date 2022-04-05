@@ -1,4 +1,4 @@
- **TJ Local Host Setup --**
+# TJ Local Host Setup 
 >
  **Video walk through: part one -
  https://youtu.be/qQtSWnIqS7A part two -
