@@ -47,7 +47,7 @@ These tutorials span from plugin development, image formatting, and general how-
 
 #### Divi
 
-- [Divi WordPress Theme Tips](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Divi/Divi%20Wordpress%20Theme%20Tips_gdoc.md)
+- [Divi WordPress Theme Tips](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Divi/Divi%20Wordpress%20Theme%20Tips.md)
 - [Creating Jump Links](https://app.box.com/file/793819659891)
 - [Jump links across different pages](https://app.box.com/file/804990418842)
 - [Formatting a Footer](https://app.box.com/file/795822172987)
