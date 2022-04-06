@@ -1,5 +1,4 @@
-**Setting up taxonomies for custom post types (like the custom book type
-we made [here](https://app.box.com/file/653156567297))**
+## Setting up taxonomies for custom post types (like the custom book type we made [here](https://app.box.com/file/653156567297))
 
 1.  Open the CPT UI plugin and select the Add/Edit taxonomies sub
      category
@@ -33,7 +32,7 @@ we made [here](https://app.box.com/file/653156567297))**
  the keywords. Authors is also not hierarchical and provides an example
  of what it looks like when authors\' names are suggested. <br><br>
 
-**Tagging custom posts**
+## Tagging custom posts
 
 1.  Make sure you're on the documents tab (not block)
 
