@@ -69,8 +69,8 @@ Here is information and training relevant to Airtable in the context of storing 
 - [Automations for filling Common Link](https://app.box.com/file/878150257485?s=vx8t4m1qfd389niim4g8yruayuqfcmyr)
 - [Limiting to a specific view on Airtable Form](https://app.box.com/file/878149118963?s=xu9mv2rj2l4jjvz0b3xjqqibmp7cn1js)
 - [Airtable Tutorial](https://app.box.com/file/769978923375?s=pjm8mfnkrg859jr9ve9j9i65303rls7x)
-- [Text Airtable Tutorial](https://app.box.com/file/769560477771?s=axruc2933to5xaus1xfmzp5gl2gq89hf)
-- [Airtable Form and Formula Creation](https://github.com/newcombtech/Technology-Tutorials/blob/main/Airtable/Airtable%20Form%20and%20Formula%20Creation%20Tutorial_gdoc.md)
+- [Text Airtable Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/Airtable/Text%20Airtable%20Tutorial.md)
+- [Airtable Form and Formula Creation](https://github.com/newcombtech/Technology-Tutorials/blob/main/Airtable/Airtable%20Form%20and%20Formula%20Creation%20Tutorial.md)
 - [Cleaning Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/Airtable/Cleaning%20Tutorial.md)
 
 ### Access
