@@ -91,7 +91,7 @@ This folder has different video and text tutorials for Tableau, mainly created f
 Coming Soon!
 
 ### Flourish
-- [Flourish Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/Flourish/Flourish%20Tutorial.docx)
+- [Flourish Tutorial](https://github.com/newcombtech/Technology-Tutorials/blob/main/Flourish/Flourish%20Tutorial.md)
 
 ## General Tech Skills
 
