@@ -29,7 +29,6 @@ These tutorials span from plugin development, image formatting, and general how-
 #### General WordPress Tutorials
 
 - [Overall, non-Tulane WordPress](https://app.box.com/file/880707215830)
-- [Creating Border Formatted Image Blocks](https://app.box.com/file/880754012758)
 - [Categorizing and Custom Post types](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Categorizing%20and%20Custom%20Post%20types.md)
 - [Creating Clickable Images](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Creating%20Clickable%20Images.md)
 - [Embedding Google Maps](https://github.com/newcombtech/Technology-Tutorials/blob/main/WordPress/Embedding%20Google%20Maps.md)
